@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Movement.cs" />
+    <Compile Include="Assets\sla porra.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
